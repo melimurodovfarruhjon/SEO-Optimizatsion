@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://melimurodovfarruhjon.github.io/SEO-Optimizatsion/sitemap.xml
